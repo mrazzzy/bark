@@ -17,23 +17,23 @@
 
 Bark is a transformer-based text-to-audio model created by [Suno](https://suno.ai). Bark can generate highly realistic, multilingual speech as well as other audio - including music, background noise and simple sound effects. The model can also produce nonverbal communications like laughing, sighing and crying. To support the research community, we are providing access to pretrained model checkpoints, which are ready for inference and available for commercial use.
 
-## ⚠ Disclaimer
+## ⚠ Disclaimer:
 Bark was developed for research purposes. It is not a conventional text-to-speech model but instead a fully generative text-to-audio model, which can deviate in unexpected ways from provided prompts. Suno does not take responsibility for any output generated. Use at your own risk, and please act responsibly.
 
-## 📖 Quick Index
+## 📖 Quick Index:
 * [🚀 Updates](#-updates)
 * [💻 Installation](#-installation)
 * [🐍 Usage](#-usage-in-python)
 * [🌀 Live Examples](https://suno.ai/examples/bark-v0)
 * [❓ FAQ](#-faq)
 
-## 🎧 Demos  
+## 🎧 Demos:  
 
 [![Open in Spaces](https://img.shields.io/badge/🤗-Open%20in%20Spaces-blue.svg)](https://huggingface.co/spaces/suno/bark)
 [![Open on Replicate](https://img.shields.io/badge/®️-Open%20on%20Replicate-blue.svg)](https://replicate.com/suno-ai/bark)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eJfA2XUa-mXwdMy7DoYKVYHI1iTd9Vkt?usp=sharing)
 
-## 🚀 Updates
+## 🚀 Updates:
 
 **2023.05.01**
 - ©️ Bark is now licensed under the MIT License, meaning it's now available for commercial use!  
@@ -49,7 +49,7 @@ Bark was developed for research purposes. It is not a conventional text-to-speec
 **2023.04.20**
 - 🐶 Bark release!
 
-## 🐍 Usage in Python
+## 🐍 Usage in Python:
 
 <details open>
   <summary><h3>🪑 Basics</h3></summary>
